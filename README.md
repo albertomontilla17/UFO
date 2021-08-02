@@ -11,7 +11,7 @@
 
 •    If you filter on state, for example California, you will enter “ca” in the search state search bar and the results will show all of the sightings in the state of California:
 
- [image](https://github.com/albertomontilla17/UFO/blob/master/resources/california_filter.png)
+![image](https://github.com/albertomontilla17/UFO/blob/master/resources/california_filter.png)
 
 
 •    If you want to filter by shape, you can search for “triangle” and the results will show all of the date in all states and cities that had a triangle sighting:
